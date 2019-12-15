@@ -14,16 +14,27 @@
 —Worked on Naive Bayes:
   —Copied and moderately modified code from lab 4
 
+—Naive Bayes Results:
+  —54.22% Accurate
+
 —Worked on Custom DTree:
   —Copied and heavily modified code from lab 2
 
 —DTree Results, Laplace %Win Method:
   —Laplace 1: 54.19% Accurate
-  —Laplace 25: 54.30% Accurate
+  —Laplace 10: 54.30% Accurate
+  —(Laplace 25: 54.30% Accurate)
   —Laplace 100: 54.42% Accurate
-  —Laplace 500: 54.45% Accurate
+  —(Laplace 500: 54.45% Accurate)
+  —Laplace 1000: 54.32% Accurate (?)
   —Laplace 10000: 54.50% Accurate
+  —Laplace 100000: 54.50% Accurate
   —Laplace 1000000: 54.50% Accurate
   
 —DTree Results, Total Win Method:
   —54.57% Accurate
+
+12/15/2019
+
+—Commented code
+—Added Decision Tree options to command line
