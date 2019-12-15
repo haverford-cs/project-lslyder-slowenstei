@@ -38,3 +38,9 @@
 
 —Commented code
 —Added Decision Tree options to command line
+
+References:
+
+Mitchell J. "(LoL) League of Legends Ranked Games." Kaggle.com (2017).
+
+Nascimento D., Felix F. Jr. "Profiling Sucessful Team Behaviors in League of Legends." Proceedings of the 23r Brazillian Symposium on Multimedia and the Web (2017). 
